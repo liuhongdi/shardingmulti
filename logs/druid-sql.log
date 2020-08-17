@@ -1,0 +1,35 @@
+2020-08-16 15:07:41.854 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} created. select * from goods where goodsId=? 
+2020-08-16 15:07:41.877 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} Parameters : [3] 
+2020-08-16 15:07:41.878 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} Types : [BIGINT] 
+2020-08-16 15:07:42.017 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} executed. 140.511052 millis. select * from goods where goodsId=? 
+2020-08-16 15:07:42.071 [http-nio-8080-exec-1] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} clearParameters.  
+2020-08-16 15:07:44.624 [http-nio-8080-exec-3] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} Parameters : [3] 
+2020-08-16 15:07:44.624 [http-nio-8080-exec-3] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} Types : [BIGINT] 
+2020-08-16 15:07:44.632 [http-nio-8080-exec-3] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} executed. 8.529253 millis. select * from goods where goodsId=? 
+2020-08-16 15:07:44.636 [http-nio-8080-exec-3] [:] DEBUG druid.sql.Statement - {conn-110005, pstmt-120000} clearParameters.  
+2020-08-16 15:07:57.254 [http-nio-8080-exec-4] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} created. select * from orderinfo where orderId=? 
+2020-08-16 15:07:57.255 [http-nio-8080-exec-4] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [77] 
+2020-08-16 15:07:57.255 [http-nio-8080-exec-4] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-16 15:07:57.264 [http-nio-8080-exec-4] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 9.105815 millis. select * from orderinfo where orderId=? 
+2020-08-16 15:07:57.266 [http-nio-8080-exec-4] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
+2020-08-16 15:08:25.636 [http-nio-8080-exec-5] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [77] 
+2020-08-16 15:08:25.636 [http-nio-8080-exec-5] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-16 15:08:25.637 [http-nio-8080-exec-5] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 1.718287 millis. select * from orderinfo where orderId=? 
+2020-08-16 15:08:25.638 [http-nio-8080-exec-5] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
+2020-08-16 15:09:09.564 [http-nio-8080-exec-7] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [94] 
+2020-08-16 15:09:09.564 [http-nio-8080-exec-7] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-16 15:09:09.565 [http-nio-8080-exec-7] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 1.165347 millis. select * from orderinfo where orderId=? 
+2020-08-16 15:09:09.576 [http-nio-8080-exec-7] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
+2020-08-16 15:09:11.350 [http-nio-8080-exec-9] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [94] 
+2020-08-16 15:09:11.350 [http-nio-8080-exec-9] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-16 15:09:11.353 [http-nio-8080-exec-9] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 3.768515 millis. select * from orderinfo where orderId=? 
+2020-08-16 15:09:11.357 [http-nio-8080-exec-9] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
+2020-08-16 15:09:17.681 [http-nio-8080-exec-10] [:] DEBUG druid.sql.Statement - {conn-110006, pstmt-120001} created. select * from goods where goodsId=? 
+2020-08-16 15:09:17.682 [http-nio-8080-exec-10] [:] DEBUG druid.sql.Statement - {conn-110006, pstmt-120001} Parameters : [3] 
+2020-08-16 15:09:17.684 [http-nio-8080-exec-10] [:] DEBUG druid.sql.Statement - {conn-110006, pstmt-120001} Types : [BIGINT] 
+2020-08-16 15:09:17.696 [http-nio-8080-exec-10] [:] DEBUG druid.sql.Statement - {conn-110006, pstmt-120001} executed. 14.201597 millis. select * from goods where goodsId=? 
+2020-08-16 15:09:17.708 [http-nio-8080-exec-10] [:] DEBUG druid.sql.Statement - {conn-110006, pstmt-120001} clearParameters.  
+2020-08-16 15:09:19.175 [http-nio-8080-exec-8] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Parameters : [94] 
+2020-08-16 15:09:19.175 [http-nio-8080-exec-8] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} Types : [BIGINT] 
+2020-08-16 15:09:19.176 [http-nio-8080-exec-8] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} executed. 1.034821 millis. select * from orderinfo where orderId=? 
+2020-08-16 15:09:19.178 [http-nio-8080-exec-8] [:] DEBUG druid.sql.Statement - {conn-10005, pstmt-20000} clearParameters.  
